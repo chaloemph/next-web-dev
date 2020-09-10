@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Prompt-Bold';
+    src: '/static/fonts/Prompt-Bold.ttf';
+}
+
+@font-face {
+    font-family: 'Prompt-Regular';
+    src: '/static/fonts/Prompt-Regular.ttf';
+}
+
+@font-face {
+    font-family: 'Prompt-Medium';
+    src: '/static/fonts/Prompt-Medium.ttf';
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Prop';
+}
+
+.title {
+    font-family: 'Prompt-Regular';
+}
+
+a {
+    color: green;
+}
+
+a:hover {
+    color: darkgreen;
+}

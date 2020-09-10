@@ -1,0 +1,1 @@
+{"ast":null,"code":"import './style.css';","map":{"version":3,"sources":["/Users/amang/temp/next-web-dev/pages/_app.js"],"names":[],"mappings":"AAAA,OAAO,aAAP","sourcesContent":["import './style.css'\n"]},"metadata":{},"sourceType":"module"}

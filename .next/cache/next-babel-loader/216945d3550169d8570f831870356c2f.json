@@ -1,0 +1,1 @@
+{"ast":null,"code":"import './style.css';\nexport default App = function App() {};","map":{"version":3,"sources":["/Users/amang/temp/next-web-dev/pages/_app.js"],"names":["App"],"mappings":"AAAA,OAAO,aAAP;AAGA,eAAeA,GAAG,GAAG,eAAK,CAEzB,CAFD","sourcesContent":["import './style.css'\n\n\nexport default App = ()=> {\n    \n}\n"]},"metadata":{},"sourceType":"module"}
